@@ -1,4 +1,9 @@
-Copyright 2022 Alice King Tai Poon, All rights reserved. 
+# This is Termux App for ANDROID Discussing board.  You may discuss here about Linux and Windows virtualization on Android devices via Termux App for Android. Heads here and discuss!  
+
+# About the amateur system administrator
+
+
+# Copyright 2022 Mr. Poon's Studio, All rights reserved. 
 
 Hi! My name's Alice King Tai Poon. I am an amateur system administrator which help pushing people installs the current operating system such as Windows 11 etc. 
 
