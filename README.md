@@ -18,3 +18,11 @@ I will not have any projects here on this discussion board because they have int
 If you want to donate something please send FPS transfer to +85298317529 if you have currency transaction app located in Hong Kong. 
 Or if you are someone have the app mentioned outside Hong Kong, you may donate me at PayPal.me/ktpoonisinpaypal or the Wise app at +85298317529. 
 Thanks for supporting on the board. Have a happy  discussion! 
+
+# How to discuss or send issues related system administration and Termux related topic
+
+Simlple! You just heads up to discuss tab and press submit new discussion button. Follow the instructions shown on the screen, Proof-reading if you have no mistakes and hit submit. For sending issues, please use issue tab. Issue sent on disuss tab may be not only CD-ROMed, seriously your issue on discussion tab will be removed.
+
+# Remember to use Chinese, either Traditiinal or Simplified type, or English. If you are using in other langs than these, I will use Google translate and reply in English lang.
+
+# 記得一定要使用繁體中文、簡體中文或英文去討論相關議題，如果您用其他語言編寫，我會用 Google翻譯 翻譯一下您的問題，並以英語解答。
