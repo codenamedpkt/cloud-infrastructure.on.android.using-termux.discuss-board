@@ -12,7 +12,7 @@ My major hobbies are swimming and cooking besides taking IT experiments.
 My dream goal is working as system administrator in my favorite alma-mater. And help to solve the disabilities with my favorite students because the children are the pole of next generation. 
 I created this Discussion Board of Termux App for Android is using knowledge on the Internet to help me provide solution to achieve my goal. 
 Please don't hesitate to provide the solution when I am or you are having error occurred in discussion board. 
-Moreover, I do not recommend to rooting or jailbreak devices with some techniques because you cannot login even proceed an transaction in currency exchange app due to violation of their ToS. Plus you will not get free warranty if your devices are break down. 
+However, I do not recommend to rooting or jailbreak devices with some techniques because you cannot login even proceed an transaction in currency exchange app due to violation of their ToS. Plus you will not get free warranty if your devices are break down. 
 
 I will not have any projects here on this discussion board because they have intellectual rights by their app developer. However, if you have good script and you wish to provide to please send me Signal message at +85298317529, or +85291470736. 
 If you want to donate something please send FPS transfer to +85298317529 if you have currency transaction app located in Hong Kong. 
