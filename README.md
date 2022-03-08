@@ -7,7 +7,7 @@
 
 Hi! My name's Alice King Tai Poon. I am an amateur system administrator which help pushing people installs the current operating system such as Windows 11 etc. 
 
-I am a mental rehabilitater for 3 mental disabilities with ADHD, hyperactive and intellectual disorder. Sorry but I have to say. 
+I am a mental rehabilitater for 3 mental disabilities with ADHD, Tourette's syndrome and mild intellectual disorder. Sorry but I have to say. 
 My major hobbies are swimming and cooking besides taking IT experiments. 
 My dream goal is working as system administrator in my favorite alma-mater. And help to solve the disabilities with my favorite students because the children are the pole of next generation. 
 I created this Discussion Board of Termux App for Android is using knowledge on the Internet to help me provide solution to achieve my goal. 
