@@ -26,3 +26,7 @@ Simlple! You just heads up to discuss tab and press submit new discussion button
 # Remember to use Chinese, either Traditiinal or Simplified type, or English. If you are using in other langs than these, I will use Google translate and reply in English lang.
 
 # 記得一定要使用繁體中文、簡體中文或英文去討論相關議題，如果您用其他語言編寫，我會用 Google翻譯 翻譯一下您的問題，並以英語解答。
+
+# Please share my board to your favorite social media and remember smash the heart button and link provided in sponsor column if you like this discuss board. Thanks for helping during the Covid-19 epidemic!
+
+# 請轉發我的討論版面到您喜歡的社交媒體並且動動您的發財雙手，在贊助專欄裡點擊紅心心還有我提供的鏈接哦！
