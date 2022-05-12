@@ -1,4 +1,4 @@
-markdown::render(<md file>, clean = FALSE)
+markdown::render(support.mrpoons.studio.md, clean = FALSE)
 # 以實際行動支持泰哥工作室
 
 ## [泰哥工作室 GitHub 主頁](https://github.com/codenamedpkt)
