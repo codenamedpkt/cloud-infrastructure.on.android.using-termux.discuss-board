@@ -11,4 +11,4 @@ jobs:
         run: |
            [[ $termux_discuss_here == "Abcde" ]] && echo "Yes! Secret got." || echo "Oh no!"
         env:
-           termux_discuss_here: ${{ secrets.MY_TOKEN }}name: Test Workflow
+           termux_discuss_here: ${{ secrets.MY_TOKEN }}
