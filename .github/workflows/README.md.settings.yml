@@ -1,2 +1,12 @@
 name: README.md settings
-uses: micromark/micromark-extension-gfm@2.0.1
+on:
+  - pull_request
+  - pull
+  - push
+jobs:
+  main:
+    - name: README.md settings
+    - runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3.0.2
+          uses: micromark/micromark-extension-gfm-tagfilter@1.0.1
