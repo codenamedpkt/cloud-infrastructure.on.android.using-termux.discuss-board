@@ -10,5 +10,6 @@ jobs:
       - name: Test
         run: |
            [[ $termux_discuss_here == "Abcde" ]] && echo "Oh no!" || echo "Yes! Secret got."
+           echo $(dirname $0)
         env:
            termux_discuss_here: ${{ secrets.MY_TOKEN }}
