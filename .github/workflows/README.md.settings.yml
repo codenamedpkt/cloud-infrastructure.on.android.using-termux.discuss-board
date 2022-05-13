@@ -4,7 +4,7 @@ on:
   - push
 jobs:
   main:
-    - name: README.md settings
+    - name: My README.md settings
     - runs-on: ubuntu-22.04
       steps:
         - uses: actions/checkout@v3.0.2
