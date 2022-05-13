@@ -12,9 +12,10 @@ jobs:
         uses: JamesIves/github-sponsors-readme-action@v1.0.8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          run: cd ..
+          run: |
+              pwd
+              ls -a
           file: 'README.md'
-           template: '* [{{{ Mr. Poon's Studio }}}]({{{ https://github.com/codenamedpkt }}}) - {{{ login }}}'
 
       - name: Deploy to GitHub Pages 🚀
         uses: JamesIves/github-pages-deploy-action@v4
