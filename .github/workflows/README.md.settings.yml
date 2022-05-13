@@ -4,7 +4,7 @@ on:
   - push
 jobs:
   Setting-up-README-With-GFM:
-    - name: Setting up README.md with Markdown to enable reaticted HTML tags
+    - name: Setting up README.md with GFM to enable reaticted HTML tags
     - runs-on: ubuntu-22.04
       steps:
         - uses: actions/checkout@v3.0.2
