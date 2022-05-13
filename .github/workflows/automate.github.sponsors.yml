@@ -1,7 +1,6 @@
 name: Generate Sponsors README
 on: [push]
-permissions:
-  users: read
+permissions: read-all
 jobs:
   deploy:
     runs-on: ubuntu-latest
