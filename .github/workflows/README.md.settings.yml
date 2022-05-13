@@ -1,10 +1,10 @@
-name: README.md settings
+name: My README.md settings
 on:
   - pull_request
   - push
 jobs:
-  main:
-    - name: My README.md settings
+  Setting-up-README-With-GFM:
+    - name: Setting up README.md with Markdown to enable reaticted HTML tags
     - runs-on: ubuntu-22.04
       steps:
         - uses: actions/checkout@v3.0.2
