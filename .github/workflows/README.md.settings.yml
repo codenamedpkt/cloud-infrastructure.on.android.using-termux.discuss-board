@@ -1,7 +1,6 @@
 name: README.md settings
 on:
   - pull_request
-  - pull
   - push
 jobs:
   main:
