@@ -1,5 +1,7 @@
 name: Generate Sponsors README
 on: [push]
+permissions:
+  users: read
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -10,7 +12,7 @@ jobs:
       - name: Generate Sponsors 💖
         uses: JamesIves/github-sponsors-readme-action@v1.0.8
         with:
-          token: ${{ secrets.PAT }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           file: 'README.md'
 
       - name: Deploy to GitHub Pages 🚀
