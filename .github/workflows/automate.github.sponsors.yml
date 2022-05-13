@@ -12,7 +12,7 @@ jobs:
         uses: JamesIves/github-sponsors-readme-action@v1.0.8
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          working-directory: './termux-discuss-here'
+          run: cd ..
           file: 'README.md'
 
       - name: Deploy to GitHub Pages 🚀
