@@ -9,11 +9,11 @@ jobs:
 
       - name: Generate Sponsors 💖
         uses: JamesIves/github-sponsors-readme-action@v1.0.8
+        run: |
+          pwd
+          ls -a
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          run: |
-              pwd
-              ls -a
           file: 'README.md'
 
       - name: Deploy to GitHub Pages 🚀
