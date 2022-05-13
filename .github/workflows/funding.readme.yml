@@ -12,6 +12,7 @@ jobs:
           pwd
           ls -a
           ls -a .github
+          ls -a .github/workflows
           echo "Your GitHub secrets is ${{ secrets.GITHUB_TOKEN }}."
 
       - name: Generate Sponsors 💖
