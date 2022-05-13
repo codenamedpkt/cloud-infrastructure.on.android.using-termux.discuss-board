@@ -12,16 +12,3 @@ jobs:
            [[ $termux_discuss_here == "Abcde" ]] && echo "Yes! Secret got." || echo "Oh no!"
         env:
            termux_discuss_here: ${{ secrets.MY_TOKEN }}name: Test Workflow
-on: [push]
-jobs:
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout 🛎️
-        uses: actions/checkout@v2
-
-      - name: Test
-        run: |
-           [[ $termux_discuss_here == "Abcde" ]] && echo "Yes! Secret got." || echo "Oh no!"
-        env:
-           termux_discuss_here: ${{ secrets.MY_TOKEN }
