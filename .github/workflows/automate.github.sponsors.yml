@@ -1,4 +1,4 @@
-name: Generate Sponsors README
+name: Add GitHub Sponsors to Readme
 on: [push]
 jobs:
   deploy:
