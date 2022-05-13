@@ -1,5 +1,7 @@
 name: Add GitHub Sponsors to Readme
-on: [push]
+on:
+  - pull_request
+  - push
 jobs:
   deploy:
     runs-on: ubuntu-latest
